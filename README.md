@@ -1,1 +1,1 @@
-# day1_project
+# aiffel_project
